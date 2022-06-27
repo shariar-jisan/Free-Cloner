@@ -401,7 +401,7 @@ logo = ("""\033[1;32;40m
  |  
  | Auther   :  SHARIAR JISAN
  |
- | Github   :............°_°
+ | Github   :shariar-jisan °_°
  |
  |  Facebook :  °_° Jisan
  |  
